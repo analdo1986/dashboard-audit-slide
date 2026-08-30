@@ -11,8 +11,8 @@ Two self-contained static pages covering the Cacao & Co dashboard UX/UI work —
 ## Deploying
 
 **GitHub Pages:** Settings → Pages → Deploy from branch → `main` / root.
-- `index.html` → `https://analdo1986.github.io/dashboard-audit/`
-- `slides.html` → `https://analdo1986.github.io/dashboard-audit/slides.html`
+- `index.html` → `[https://analdo1986.github.io/dashboard-audit/](https://analdo1986.github.io/dashboard-audit/)`
+- `slides.html` → `[https://analdo1986.github.io/dashboard-audit/slides.html](https://analdo1986.github.io/dashboard-audit-slide/slides.html)`
 
 **Vercel / Netlify:** point either at this repo with no framework preset; both serve static files as-is, so both pages are reachable the same way.
 
